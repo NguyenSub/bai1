@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    display: inline;
+}
+.color_red {
+    color: red;
+}
+.puple {
+    color:blueviolet
+}
+.img_centre {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+img {
+    margin: 20px;
+}
+.container {
+    
+}
